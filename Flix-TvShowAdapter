@@ -19,6 +19,13 @@
    "subtitle":"By Blender Foundation", 
    "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYj3UAe4KaVlnxX1SyS0ZVxi6Pc1_X_hmRU_HYy_t2wN7y8W3iuf1tfwthVfswota6wVM&usqp=CAU",
    "title":"Chip n Dale Rescue Rangers (Hollywood Movie)" 
+    },
+    {
+  "description":"HHH\n\nFb Page: Anime Max24\nhttps://www.facebook.com/animetvmax24",
+   "sources":["http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery&q=800&e=.m3u8"],
+   "subtitle":"By Blender Foundation", 
+   "thumb":"HHH",
+   "title":"Jio Server LIVE" 
     }
     ]
    }
